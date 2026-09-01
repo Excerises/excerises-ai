@@ -12,3 +12,5 @@ wheels/
 
 # Cleaned datasets
 datasets/*_cleaned.csv
+.virtual_documents
+datasets/cleaned
