@@ -14,3 +14,9 @@ wheels/
 datasets/*_cleaned.csv
 .virtual_documents
 datasets/cleaned
+
+# Model output
+**/*.pkl
+*.pkl
+**/*.joblib
+*.joblib
