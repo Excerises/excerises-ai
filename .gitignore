@@ -9,6 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .ipynb_checkpoints
+.virtual_documents/
 
 # Cleaned datasets
 datasets/*_cleaned.csv
